@@ -35,3 +35,9 @@ This is a brief explanation about the documentation
 7 - Upload the Tableau workbook on Tableau Public
 
     Link: https://public.tableau.com/profile/euripedes.victor.de.campos.junior#!/vizhome/Part02_YoutubeData/Story1
+    
+    
+8 - Notes of some issues found during the execution of the project. 
+
+      File name: Notes.docx
+      
