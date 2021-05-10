@@ -13,4 +13,5 @@ SELECT
 	split_part(twitter_profile,'\n',1) as twitter_profile,
 	category_title
 	FROM public.all_countries_regions cr
-	LEFT JOIN public.category ct ON cr.category_id = ct.category_id;
+	LEFT JOIN public.category ct ON cr.category_id = ct.category_id 
+							and cr.country_region_code = ct.country_region_code;
